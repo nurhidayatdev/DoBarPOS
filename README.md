@@ -170,13 +170,4 @@ Gunakan akun uji coba berikut untuk menguji masing-masing level hak akses peran:
 
 ---
 
-## 👥 Kelompok Pengembangan (Kelompok 7)
-Proyek ini disusun dan diselesaikan oleh **Kelompok 7** mahasiswa **Teknik Informatika dan Komputer**, **Fakultas Teknik, Universitas Negeri Makassar (UNM)**:
-* **[Nama Anggota 1]** - [NIM] - [Peran/Tugas]
-* **[Nama Anggota 2]** - [NIM] - [Peran/Tugas]
-* **[Nama Anggota 3]** - [NIM] - [Peran/Tugas]
-
-*(Silakan ubah daftar nama anggota di atas sesuai dengan pembagian kelompok asli Anda).*
-
----
 *© 2026 DoBarPOS — Teknik Informatika & Komputer FT-UNM. Hak Cipta Dilindungi.*
